@@ -1,4 +1,4 @@
-# День
+# Дневной цикл
 
 ## Фон
 
@@ -33,5 +33,6 @@
 
 ```bash
 git clone https://github.com/doomkin/day-cycle.git
-cd day-cycle && sudo ./install.sh
+cd day-cycle
+sudo ./install.sh
 ```
