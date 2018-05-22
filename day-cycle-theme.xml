@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Day Cycle</name>
+    <name xml:lang="ru">Дневной цикл</name>
+    <filename>/usr/share/backgrounds/day-cycle/day-cycle-backgrounds.xml</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#273d4d</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
